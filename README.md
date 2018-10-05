@@ -2,14 +2,7 @@
 
 [@droxey](https://github.com/droxey)'s **customized TH3D firmware for the Ender3**.
 
-## Features
-
-### Cura
-
-* [PLA - 0.4mm-0.1mm](cura/configurations/PLA_0.4mm-0.1mm.curaprofile)
-* [PLA - 0.4mm-0.2mm](cura/configurations/PLA_0.4mm-0.2mm.curaprofile)
-
-### Firmware
+## Firmware Features
 
 * Disabled buzzer when using the LCD.
 * Added `DROXEYBOT` as the printer name.
