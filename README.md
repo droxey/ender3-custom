@@ -6,6 +6,8 @@
 
 * Disabled buzzer when using the LCD.
 * Added `DROXEYBOT` as the printer name.
+* Boot screen disabled for faster startup.
+* [TODO] Add BLTouch support.
 
 ## Development
 
